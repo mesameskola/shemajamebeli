@@ -1,0 +1,21 @@
+/* @import "../Header/Header.css";
+@import url("https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap"); */
+
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  padding: 20px 30px;
+  color: #ebc1ae;
+  background-color: #000000;
+  font-family: "EB Garamond", serif;
+  font-style: italic;
+font-size: 16px;
+  cursor: pointer;
+  text-wrap: nowrap;
+}

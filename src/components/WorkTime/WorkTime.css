@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+
+.workTimeBox{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.workTimeText,
+.worTimeList{
+ font-family: "EB Garamond", serif;
+ color: #222222;
+ list-style: none;
+ font-style: italic;
+ font-size: 16px;
+  line-height: 50px;
+}
+
+
