@@ -43,8 +43,8 @@
 }
 
 
-/* @media (max-width: 799px) {
+@media (max-width: 799px) {
 .heroBg {
      background-image: url(../../image/hero3.png);
     height: 500px;}
-} */
+}
