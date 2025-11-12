@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sectionTextBox {
+  display: flex;
+  padding: 30px 0 60px 0;
+  gap: 20px;
+}
+
+.freeBox,
+.sectionText {
+  width: 50%;
+}
+
+.sectionText {
+  font-family: "EB Garamond", serif;
+  font-size: 30px;
+  line-height: 110%;
+  letter-spacing: -2%;
+  color: #030303;
+  font-style: italic;
+}
